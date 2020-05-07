@@ -1,0 +1,22 @@
+{
+  "name": "apiwebphpcsharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomuzzo1/apiWebphpCsharp.git"
+  },
+  "author": "João Muzzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomuzzo1/apiWebphpCsharp/issues"
+  },
+  "homepage": "https://github.com/joaomuzzo1/apiWebphpCsharp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
